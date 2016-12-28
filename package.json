@@ -1,0 +1,27 @@
+{
+  "name": "es6-sample-setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webtinkerer/gulp-babel.git"
+  },
+  "keywords": [
+    "gulp",
+    "babel"
+  ],
+  "author": "Quteron <quteron@gmail.com> (quteron.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webtinkerer/gulp-babel/issues"
+  },
+  "homepage": "https://github.com/webtinkerer/gulp-babel#readme",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.18.0",
+    "gulp-babel": "^6.1.2"
+  }
+}
